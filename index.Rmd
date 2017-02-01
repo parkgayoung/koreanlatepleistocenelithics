@@ -20,6 +20,7 @@ For now, you have to install the development versions of **bookdown** from Githu
 
 ```{r eval=FALSE}
 devtools::install_github("rstudio/bookdown")
+#I forgot everything how to use github
 ```
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
